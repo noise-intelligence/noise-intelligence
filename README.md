@@ -11,11 +11,11 @@ Focused on digital footprint analysis and open-source investigations.
 - Research assistance  
 
 ## Workflow
-**Initial inquiry** - receive client request.  
-**Scope clarification** - define exact targets and objectives.  
-**Feasibility assessment** - check availability of sources and tools.  
-**Research and analysis** - structured collection, veridication, and correlation of information.  
-**Report delivery** - concise and actionable report.  
+**Initial inquiry** - receive client request  
+**Scope clarification** - define exact targets and objectives  
+**Feasibility assessment** - check availability of sources and tools  
+**Research and analysis** - structured collection, verification, and correlation of information  
+**Report delivery** - concise and actionable report  
 
 ## Contact
 **Primary channel:**  
