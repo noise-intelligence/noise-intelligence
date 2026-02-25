@@ -18,8 +18,8 @@ Focused on digital footprint analysis and open-source investigations.
 **Report delivery** - concise and actionable report  
 
 ## Contact
-**Primary channel:**  
-SimpleX Chat: [https://smp10.simplex.im/a#SWjIH1kHyTt0M8sSDW2155nAGEa-uqwb4xPf8m9ywew](https://smp10.simplex.im/a#SWjIH1kHyTt0M8sSDW2155nAGEa-uqwb4xPf8m9ywew)  
+**Primary channel:** SimpleX Chat: [https://smp10.simplex.im/a#SWjIH1kHyTt0M8sSDW2155nAGEa-uqwb4xPf8m9ywew](https://smp10.simplex.im/a#SWjIH1kHyTt0M8sSDW2155nAGEa-uqwb4xPf8m9ywew)  
+**Secondary channel:** Email: [contact-noise.osint@protonmail.com](mailto:contact-noise.osint@protonmail.com)  
 
 ---
 Russian preferred for CIS clients.  
